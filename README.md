@@ -34,6 +34,7 @@ Help the chicken cross the road safely while avoiding moving obstacles and incre
 5. Try to survive as long as possible!
 
 ---
+#live demo:-  https://ketan1530.github.io/chiken-crossy-road/
 
 ## 🚀 How to Run Locally
 
